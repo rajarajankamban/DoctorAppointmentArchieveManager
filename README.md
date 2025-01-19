@@ -1,3 +1,61 @@
+Doctor Appointment Archieve manager 
+
+This is app is developed using Claude.ai
+
+Core Functionality:
+
+Entry Management
+
+Create and edit appointment entries with specified fields
+Two-level serial numbering system:
+
+Overall serial number
+Daily serial number (resets at midnight)
+
+
+Auto-suggestions for:
+
+Hospital name
+Surgeon
+Procedure
+Anesthesia
+
+
+Manual time entry for start/end times with automatic duration calculation
+
+
+Data Storage & Sync
+
+Cloud storage integration for data backup
+Local data storage for offline access
+Periodic automatic sync between cloud and device
+Manual sync option when needed
+Cross-platform access (mobile and web)
+Ability to add/edit entries from both platforms
+
+
+Reporting & Analytics
+
+Custom date range filtering
+Dashboard view showing:
+
+Total amount calculations
+Monthly summaries
+Yearly summaries
+
+
+No export/download requirements
+
+
+Payment Tracking
+
+Support for multiple payment modes:
+
+Cash
+Card
+Insurance
+UPI
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
